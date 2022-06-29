@@ -1,8 +1,8 @@
 # GEProgramacaoEMTurmaF
 
-**Projeto Inicial:** Aprender a usar o Github e aprendendo suas funcionalidades
-*Evolução do Projeto*: Utilizar o Github como ferramenta Pedagógica no ensino de Programação e de Pensamento Computacional
-*Pré-requisitos*: Criar o perfil na plataforma e aprender as funcionalidades básicas para criar repositórios, editá-los e manipulá-los
+**Projeto Inicial:** Aprender a usar o Github e  compreender suas funcionalidades;
+*Evolução do Projeto*: Utilizar o Github como ferramenta Pedagógica no ensino de Programação e de Pensamento Computacional;
+*Pré-requisitos*: Criar o perfil na plataforma e aprender as funcionalidades básicas para criar repositórios, editá-los e manipulá-los;
 *Colaboradores*: Professora Fran Pastori - Tutora do nosso grupo de estudos, e colegas inscritos na turma 7 desse grupo de estudos.
 
 Para começar a fazer a programação do *Readme* e compreender a utilização dos códigos necessários para o desenvolvimento da linguagem, coloquei a imagem e o link de um filme muito especial do **Tim Burton**
