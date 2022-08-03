@@ -1,13 +1,20 @@
-body {background-color: grey;}
+body {text-align: center;}
+
+header,footer {background-color: #9DEDE8;}
 
 h1 {
-    color: aquamarine;
+    color: #ed9ad0;
     text-align: center;
 }
 
+p{ 
+    color: rgb(156, 166, 240)
+
+}
+
 b{
-    color: darkviolet;
-    font-size: 40 px;
+    color: #F0E3B6;
+    font-size: 40px;
 }
 
 i{ color: deeppink;}
