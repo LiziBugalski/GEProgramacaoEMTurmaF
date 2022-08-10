@@ -8,9 +8,13 @@ h1 {
 }
 
 p{ 
-    color: rgb(156, 166, 240)
+    color: rgb(156, 166, 240);
+
 
 }
+
+#paragrafodiferente {color:black;}
+
 
 b{
     color: #F0E3B6;
@@ -18,3 +22,5 @@ b{
 }
 
 i{ color: deeppink;}
+
+
