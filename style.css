@@ -13,11 +13,11 @@ h1 {
 }
 
 section{
-    display: inline-block;
+    text-align: center;
+    list-style: none;
+    display: inline;
 p{ 
-    color: rgb(156, 166, 240);
-
-
+    color: rgb (156, 166, 240);
 }
 }
 
@@ -31,6 +31,8 @@ b{
 }
 
 i{ color: deeppink;}
+
+
 
 
 
@@ -50,3 +52,8 @@ img{
     height: initial;
     margin: 0 px;
 }
+
+.logo
+{display: absolute ;
+width: 5px
+height: 5px}
